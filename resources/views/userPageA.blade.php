@@ -35,7 +35,7 @@
              @endforeach
         </ul>
         <br>
-        <a href="#" id="Imfeelinglucky">Imfeelinglucky</a>
+        <button id="Imfeelinglucky">Imfeelinglucky</button>
         <div id="rollResult" style="display: none">
             <br>
             <span id="number"></span>
@@ -45,7 +45,8 @@
             <span id="result"></span>
         </div>
         <br>
-        <a id="historyButton" href="#">History</a>
+        <br>
+        <button id="historyButton">History</button>
         <div id="history" style="display: none"></div>
     </div>
 </body>
